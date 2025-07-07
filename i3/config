@@ -257,8 +257,6 @@ gaps outer 5
 # padding the title a bit to the right because of the rounding 
 for_window [class=".*"] title_format "  %title"
 
-for_window [class="Learn OpenGL"] floating enable
-for_window [class="Skippy"] floating enable
 for_window [class="gnome-calculator"] floating enable
 for_window [class="org.gnome.clocks"] floating enable
 for_window [class="unityhub"] floating enable
