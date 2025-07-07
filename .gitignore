@@ -2,11 +2,16 @@
 *
 
 !tmux/
+!tmux/**
 !nvim/
 !i3/
+!i3/**
 !i3status/
+!i3status/**
 !scripts/
+!scripts/**
 !polybar/
+!polybar/**
 
 
 !.gitignore
