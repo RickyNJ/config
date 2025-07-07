@@ -1,0 +1,12 @@
+# ignore everything
+*
+
+!tmux/
+!nvim/
+!i3/
+!i3status/
+!scripts/
+!polybar/
+
+
+!.gitignore
